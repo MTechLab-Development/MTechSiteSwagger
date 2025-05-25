@@ -1,8 +1,8 @@
 swagger: "2.0"
 info:
-  title: "Launcher API"
+  title: "MTechSite API"
   version: "1.0.0"
-  description: "Authorization endpoint for Minecraft launcher"
+  description: ""
 host: "test.mtechlab.dev"
 basePath: "/api"
 schemes:
